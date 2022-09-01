@@ -6,7 +6,7 @@
 - This is a very basic program that displays the message "Hello World"
 
 # Why did I make this?
-- This project was started/designed to help me familiarize myself with Javascript, Visual Studio Code, and NodeJS.
+- This project was started/designed to help me familiarize myself with Javascript, Visual Studio Code, and Node.JS.
 
 # Who should make it?
 - Anyone who wants to begin learning coding/computer programming.
@@ -15,11 +15,9 @@
 - Now.  Stop procrastinating like I often do :)
 
 ---
-# How should I make it?
+# Required Downloads
 
 - _Begin by downloading:_
 - [Visual Studio Code](https://code.visualstudio.com/download)
-- [NodeJS](https://nodejs.org/en/)
+- [Node.JS](https://nodejs.org/en/)
 - [Git](https://git-scm.com/downloads)
-
-How in depth should I actuall go with methodologies?...
